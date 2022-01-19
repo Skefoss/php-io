@@ -1,13 +1,14 @@
 {
     "name": "ske/io",
-    "version": "0.0.0",
     "description": "Perform I/O from standard PHP streams",
     "homepage": "https://foss.sikessem.com/php/io",
     "license": "Apache-2.0",
     "keywords": [
         "input",
         "output",
-        "stream"
+        "stream",
+        "skefoss",
+        "sikessem"
     ],
     "authors": [{
         "name": "SIGUI Kessé Emmanuel",
